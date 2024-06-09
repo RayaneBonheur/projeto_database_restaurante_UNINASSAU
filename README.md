@@ -1,2 +1,2 @@
 # projeto_database_restaurante_UNINASSAU
-projeto-engenharia-software-cin-2023-2
+Este é um repositório destinado ao projeto um restaurante, cujo objetivo é aplicar conceitos e conteúdos vistos ao longo da disciplina de Database da UNINASSAU.
